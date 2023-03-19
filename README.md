@@ -1,4 +1,4 @@
-# LOOP IN IMAGE
+# Approximate Minimum Homology Basis for 3D Image
 The code of the paper [1].
 
  Compile c++ code with CMake, or directly run the command line in the exe folder. 
